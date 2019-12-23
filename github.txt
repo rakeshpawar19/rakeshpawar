@@ -1,0 +1,24 @@
+1)
+
+Initialized empty Git repository in /home/iet/Desktop/190845920058/q3/.git/
+git init
+
+2)
+git status
+On branch master
+No commits yet
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+3)git add -A
+
+
+
+
+
+
+
+
+
+
